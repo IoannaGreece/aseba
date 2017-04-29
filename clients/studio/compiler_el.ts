@@ -346,358 +346,358 @@
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="292"/>
         <source>Division by zero</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαίρεση με το μηδέν</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="296"/>
         <source>-32768 has no positive correspondance in 16 bits integers</source>
-        <translation type="unfinished"></translation>
+        <translation>Το -32768 δεν έχει θετικό αντίστοιχο σε ακεραίους 16 bits</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="300"/>
         <source>Out of bound static array access. Trying to read index %0 of array %1 of size %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Πρόσβαση σε στατικό πίνακα εκτός ορίων. Προσπάθεια να διαβαστεί δείκτης %0 στον πίνακα %1 μεγέθους %2</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="304"/>
         <source>Out of bound static array access. Trying to write index %0 of array %1 of size %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Πρόσβαση σε στατικό πίνακα εκτός ορίων. Προσπάθεια να γραφτεί δείκτης %0 στον πίνακα %1 μεγέθους %2</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="308"/>
         <source>Expecting %0 type, found %1 type instead</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναμονή για τύπο %0, ωστόσο βρέθηκε τύπος %1</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="312"/>
         <source>Expecting a condition, found a %0 instead</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναμονή για συνθήκη, ωστόσο βρέθηκε %1</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="316"/>
         <source>end of stream</source>
-        <translation type="unfinished"></translation>
+        <translation>τέλος ροής δεδομένων</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="320"/>
         <source>when keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>δεσμευμένη λέξη when</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="324"/>
         <source>emit keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>δεσμευμένη λέξη emit</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="328"/>
         <source>_emit keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>δεσμευμένη λέξη _emit</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="332"/>
         <source>for keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>δεσμευμένη λέξη for</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="336"/>
         <source>in keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>δεσμευμένη λέξη in</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="340"/>
         <source>step keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>δεσμευμένη λέξη step</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="344"/>
         <source>while keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>δεσμευμένη λέξη while</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="348"/>
         <source>do keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>δεσμευμένη λέξη do</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="352"/>
         <source>if keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>δεσμευμένη λέξη if</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="356"/>
         <source>then keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>δεσμευμένη λέξη then</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="360"/>
         <source>else keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>δεσμευμένη λέξη else</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="364"/>
         <source>elseif keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>δεσμευμένη λέξη elseif</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="368"/>
         <source>end keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>δεσμευμένη λέξη end</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="372"/>
         <source>var keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>δεσμευμένη λέξη var</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="376"/>
         <source>const keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>δεσμευμένη λέξη const</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="380"/>
         <source>call keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>δεσμευμένη λέξη call</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="384"/>
         <source>sub keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>δεσμευμένη λέξη sub</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="388"/>
         <source>callsub keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>δεσμευμένη λέξη callsub</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="392"/>
         <source>onevent keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>δεσμευμένη λέξη onevent</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="396"/>
         <source>abs keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>δεσμευμένη λέξη abs</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="400"/>
         <source>return keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>δεσμευμένη λέξη return</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="404"/>
         <source>string</source>
-        <translation type="unfinished"></translation>
+        <translation>αλφαριθμητικό</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="408"/>
         <source>integer</source>
-        <translation type="unfinished"></translation>
+        <translation>ακέραιος</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="412"/>
         <source>( (open parenthesis)</source>
-        <translation type="unfinished"></translation>
+        <translation>( (ανοίγει παρένθεση)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="416"/>
         <source>) (close parenthesis)</source>
-        <translation type="unfinished"></translation>
+        <translation>) (κλείνει παρένθεση)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="420"/>
         <source>[ (open bracket)</source>
-        <translation type="unfinished"></translation>
+        <translation>[ (ανοίγει αγκύλη)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="424"/>
         <source>] (close bracket)</source>
-        <translation type="unfinished"></translation>
+        <translation>] (κλείνει αγκύλη)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="428"/>
         <source>: (colon)</source>
-        <translation type="unfinished"></translation>
+        <translation>: (άνω κάτω τελεία)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="432"/>
         <source>, (comma)</source>
-        <translation type="unfinished"></translation>
+        <translation>, (κόμμα)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="436"/>
         <source>= (assignation)</source>
-        <translation type="unfinished"></translation>
+        <translation>= (ανάθεση τιμής)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="440"/>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>ή (or)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="444"/>
         <source>and</source>
-        <translation type="unfinished"></translation>
+        <translation>και (and)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="448"/>
         <source>not</source>
-        <translation type="unfinished"></translation>
+        <translation>όχι (not)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="452"/>
         <source>binary or</source>
-        <translation type="unfinished"></translation>
+        <translation>δυαδικό ή (or)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="456"/>
         <source>binary xor</source>
-        <translation type="unfinished"></translation>
+        <translation>δυαδικό αποκλειστικό ή (xor)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="460"/>
         <source>binary and</source>
-        <translation type="unfinished"></translation>
+        <translation>δυαδικό και (and)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="464"/>
         <source>binary not</source>
-        <translation type="unfinished"></translation>
+        <translation>δυαδικό όχι (not)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="468"/>
         <source>binary or equal</source>
-        <translation type="unfinished"></translation>
+        <translation>δυαδικό ή ίσον (or equal)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="472"/>
         <source>binary xor equal</source>
-        <translation type="unfinished"></translation>
+        <translation>δυαδικό αποκλειστικό ή ίσον (xor equal)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="476"/>
         <source>binary and equal</source>
-        <translation type="unfinished"></translation>
+        <translation>δυαδικό και ίσον (and equal)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="480"/>
         <source>== (equal to)</source>
-        <translation type="unfinished"></translation>
+        <translation>== (ίσο με)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="484"/>
         <source>!= (not equal to)</source>
-        <translation type="unfinished"></translation>
+        <translation>!= (διάφορο)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="488"/>
         <source>&gt; (bigger than)</source>
-        <translation type="unfinished"></translation>
+        <translation>&gt; (μεγαλύτερο από)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="492"/>
         <source>&gt;= (bigger or equal than)</source>
-        <translation type="unfinished"></translation>
+        <translation>&gt;= (μεγαλύτερο από ή ίσον)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="496"/>
         <source>&lt; (smaller than)</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt; (μικρότερο από)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="500"/>
         <source>&lt;= (smaller or equal than)</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;= (μικρότερο από ή ίσον)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="504"/>
         <source>&lt;&lt; (shift left)</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;&lt; (ολίσθηση αριστερά)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="508"/>
         <source>&gt;&gt; (shift right)</source>
-        <translation type="unfinished"></translation>
+        <translation>&gt;&gt; (ολίσθηση δεξιά)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="512"/>
         <source>&lt;&lt;= (shift left equal)</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;&lt;= (ολίσθηση αριστερά ίσον)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="516"/>
         <source>&gt;&gt;= (shift right equal)</source>
-        <translation type="unfinished"></translation>
+        <translation>&gt;&gt;= (ολίσθηση δεξιά ίσον)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="520"/>
         <source>+ (plus)</source>
-        <translation type="unfinished"></translation>
+        <translation>+ (συν)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="524"/>
         <source>- (minus)</source>
-        <translation type="unfinished"></translation>
+        <translation>- (μείον)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="528"/>
         <source>+= (plus equal)</source>
-        <translation type="unfinished"></translation>
+        <translation>+= (συν ίσον)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="532"/>
         <source>-= (minus equal)</source>
-        <translation type="unfinished"></translation>
+        <translation>-= (μείον ίσον)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="536"/>
         <source>++ (plus plus)</source>
-        <translation type="unfinished"></translation>
+        <translation>++ (συν συν)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="540"/>
         <source>-- (minus minus)</source>
-        <translation type="unfinished"></translation>
+        <translation>-- (μείον μείον)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="544"/>
         <source>* (time)</source>
-        <translation type="unfinished"></translation>
+        <translation>* (επί)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="548"/>
         <source>/ (divide)</source>
-        <translation type="unfinished"></translation>
+        <translation>/ (δια)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="552"/>
         <source>modulo</source>
-        <translation type="unfinished"></translation>
+        <translation>modulo (υπόλοιπο διαίρεσης)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="556"/>
         <source>*= (time equal)</source>
-        <translation type="unfinished"></translation>
+        <translation>*= (επί ίσον)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="560"/>
         <source>/= (divide equal)</source>
-        <translation type="unfinished"></translation>
+        <translation>/= (δια ίσον)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="564"/>
         <source>modulo equal</source>
-        <translation type="unfinished"></translation>
+        <translation>υπόλοιπο διαίρεσης (modulo) ίσον</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="568"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>άγνωστο</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="572"/>
         <location filename="translations/CompilerTranslator.cpp" line="576"/>
         <source>Unknown error</source>
-        <translation type="unfinished"></translation>
+        <translation>Άγνωστο σφάλμα</translation>
     </message>
 </context>
 </TS>
