@@ -334,38 +334,38 @@ Occurrences</source>
     <message>
         <location filename="HelpViewer.cpp" line="59"/>
         <source>The help file %0 was not loaded successfully. The error was: %1.The help file should be available in the temporary directory of your system. Please check your installation, or report a bug.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το αρχείο βοήθειας %0 δε φορτώθηκε επιτυχώς. Το σφάλμα ήταν: %1.Το αρχείο βοήθειας θα πρέπει να είναι διαθέσιμο στον προσωρινό φάκελο του συστήματός σας. Παρακαλώ να ελέγξετε την εγκατάστασή σας, ή να αναφέρετε το πρόβλημα.</translation>
     </message>
     <message>
         <location filename="HelpViewer.cpp" line="63"/>
         <source>Help file not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Το αρχείο βοήθειας δε βρέθηκε</translation>
     </message>
     <message>
         <location filename="HelpViewer.cpp" line="81"/>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Προηγούμενο</translation>
     </message>
     <message>
         <location filename="HelpViewer.cpp" line="83"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Επόμενο</translation>
     </message>
     <message>
         <location filename="HelpViewer.cpp" line="85"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Αρχή</translation>
     </message>
     <message>
         <location filename="HelpViewer.cpp" line="113"/>
         <location filename="HelpViewer.cpp" line="186"/>
         <source>Aseba Studio Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Βοήθεια Aseba Studio</translation>
     </message>
     <message>
         <location filename="HelpViewer.cpp" line="136"/>
         <source>The help filter for the langauge &quot;%0&quot; has not been found. Falling back to the default language (%1). This is probably a bug, please report it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το φίλτρο βοήθειας για τη γλώσσα &quot;%0&quot; δεν έχει βρεθεί. Επιστροφή στην προκαθορισμένη γλώσσα (%1). Αυτό είναι πιθανόν πρόβλημα, παρακαλώ να το αναφέρετε.</translation>
     </message>
 </context>
 <context>
@@ -373,22 +373,22 @@ Occurrences</source>
     <message>
         <location filename="plugins/VariablesViewPlugin.cpp" line="69"/>
         <source>Linear Camera View Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Πρόσθετο Προβολής Γραμμικής Κάμερας</translation>
     </message>
     <message>
         <location filename="plugins/VariablesViewPlugin.cpp" line="76"/>
         <source>linear camera viewer</source>
-        <translation type="unfinished"></translation>
+        <translation>προβολέας γραμμικής κάμερας</translation>
     </message>
     <message>
         <location filename="plugins/VariablesViewPlugin.cpp" line="121"/>
         <source>Cannot initialize linear camera view plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν είναι δυνατή η εκκίνηση του πρόσθετου προβολής γραμμικής κάμερας</translation>
     </message>
     <message>
         <location filename="plugins/VariablesViewPlugin.cpp" line="121"/>
         <source>One or more variable not found in %1, %2, or %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>Μία ή περισσότερες μεταβλητές δε βρέθηκαν σε %1, %2, ή %3.</translation>
     </message>
 </context>
 <context>
@@ -396,52 +396,52 @@ Occurrences</source>
     <message>
         <location filename="plugins/VariablesViewPlugin.cpp" line="19"/>
         <source>Please choose your variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Παρακαλώ να επιλέξετε τις μεταβλητές σας</translation>
     </message>
     <message>
         <location filename="plugins/VariablesViewPlugin.cpp" line="20"/>
         <source>red component</source>
-        <translation type="unfinished"></translation>
+        <translation>κόκκινο συστατικό</translation>
     </message>
     <message>
         <location filename="plugins/VariablesViewPlugin.cpp" line="22"/>
         <source>green component</source>
-        <translation type="unfinished"></translation>
+        <translation>πράσινο συστατικό</translation>
     </message>
     <message>
         <location filename="plugins/VariablesViewPlugin.cpp" line="24"/>
         <source>blue component</source>
-        <translation type="unfinished"></translation>
+        <translation>μπλε συστατικό</translation>
     </message>
     <message>
         <location filename="plugins/VariablesViewPlugin.cpp" line="26"/>
         <source>range of values</source>
-        <translation type="unfinished"></translation>
+        <translation>εύρος τιμών</translation>
     </message>
     <message>
         <location filename="plugins/VariablesViewPlugin.cpp" line="29"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>ΟΚ</translation>
     </message>
     <message>
         <location filename="plugins/VariablesViewPlugin.cpp" line="33"/>
         <source>auto range</source>
-        <translation type="unfinished"></translation>
+        <translation>αυτόματο εύρος</translation>
     </message>
     <message>
         <location filename="plugins/VariablesViewPlugin.cpp" line="34"/>
         <source>8 bits range (0â255)</source>
-        <translation type="unfinished"></translation>
+        <translation>εύρος 8 bits (0-255)</translation>
     </message>
     <message>
         <location filename="plugins/VariablesViewPlugin.cpp" line="35"/>
         <source>percent range (0â100)</source>
-        <translation type="unfinished"></translation>
+        <translation>ποσοστιαίο εύρος (0-100)</translation>
     </message>
     <message>
         <location filename="plugins/VariablesViewPlugin.cpp" line="55"/>
         <source>Linear Camera View Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Πρόσθετο Προβολής Γραμμικής Κάμερας</translation>
     </message>
 </context>
 <context>
@@ -449,44 +449,44 @@ Occurrences</source>
     <message>
         <location filename="MainWindow.cpp" line="1605"/>
         <source>Event number %0</source>
-        <translation type="unfinished"></translation>
+        <translation>Αριθμός συμβάντος %0</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="1646"/>
         <source>&lt;h1&gt;About Aseba&lt;/h1&gt;Version information&lt;ul&gt;&lt;li&gt;Aseba ver. %0&lt;br/&gt;(build ver. %1/protocol ver. %2)&lt;/li&gt;&lt;li&gt;Dashel ver. %3&lt;br/&gt;(supported stream types: %4)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Read more on &lt;a href=&quot;%5&quot;&gt;aseba.wikidot.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;(c) 2006-2015 &lt;a href=&quot;http://stephane.magnenat.net&quot;&gt;Stéphane Magnenat&lt;/a&gt; and other contributors (click &quot;Show details&quot; for full list)&lt;/p&gt;&lt;p&gt;Aseba is open-source licensed under the &lt;a href=&quot;https://www.gnu.org/licenses/lgpl.html&quot;&gt;LGPL version 3&lt;/a&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h1&gt;Σχετικά με το Aseba&lt;/h1&gt;Πληροφορίες Έκδοσης&lt;ul&gt;&lt;li&gt;Aseba ver. %0&lt;br/&gt;(build ver. %1/protocol ver. %2)&lt;/li&gt;&lt;li&gt;Dashel ver. %3&lt;br/&gt;(υποστηριζόμενοι τύποι ροής δεδομένων: %4)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Διαβάστε περισσότερα στο &lt;a href=&quot;%5&quot;&gt;aseba.wikidot.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;(c) 2006-2015 &lt;a href=&quot;http://stephane.magnenat.net&quot;&gt;Stéphane Magnenat&lt;/a&gt; και λοιποί συνεργάτες (κάντε κλικ στο &quot;Εμφάνιση λεπτομερειών&quot; για πλήρη λίστα)&lt;/p&gt;&lt;p&gt;Το Aseba είναι ανοικτού κώδικα με άδεια από &lt;a href=&quot;https://www.gnu.org/licenses/lgpl.html&quot;&gt;LGPL έκδοση 3&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="1663"/>
         <location filename="MainWindow.cpp" line="3352"/>
         <source>http://aseba.wikidot.com/en:start</source>
-        <translation type="unfinished"></translation>
+        <translation>http://aseba.wikidot.com/en:start</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="1672"/>
         <source>About Aseba Studio</source>
-        <translation type="unfinished"></translation>
+        <translation>Σχετικά με το Aseba Studio</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="1741"/>
         <source>Open Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα Σεναρίου (Script)</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="1851"/>
         <source> (not available)</source>
-        <translation type="unfinished"></translation>
+        <translation> (μη διαθέσιμο)</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="1879"/>
         <location filename="MainWindow.cpp" line="1896"/>
         <source>Loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Φόρτωση</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="1880"/>
         <source>%0 scripts have no corresponding nodes in the current network and have not been loaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>%0 σενάρια (scripts) δεν έχουν αντίστοιχους κόμβους στο παρόν δίκτυο και δεν έχουν φορτωθεί.</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="1897"/>
