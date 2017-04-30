@@ -686,7 +686,7 @@
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="564"/>
         <source>modulo equal</source>
-        <translation>υπόλοιπο διαίρεσης (modulo) ίσον</translation>
+        <translation>υπόλοιπο διαίρεσης (modulo ίσον)</translation>
     </message>
     <message>
         <location filename="translations/CompilerTranslator.cpp" line="568"/>
