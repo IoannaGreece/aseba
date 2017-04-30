@@ -6,17 +6,17 @@
     <message>
         <location filename="AeslEditor.cpp" line="499"/>
         <source>Clear breakpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Καθαρισμός σημείου διακοπής</translation>
     </message>
     <message>
         <location filename="AeslEditor.cpp" line="501"/>
         <source>Set breakpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Ορισμός σημείου διακοπής</translation>
     </message>
     <message>
         <location filename="AeslEditor.cpp" line="502"/>
         <source>Clear all breakpoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή όλων των σημείων διακοπής</translation>
     </message>
 </context>
 <context>
@@ -24,7 +24,7 @@
     <message>
         <location filename="MainWindow.cpp" line="162"/>
         <source>Aseba Studio: Output of last compilation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aseba Studio: Έξοδος τελευταίας μεταγγλώτισης</translation>
     </message>
 </context>
 <context>
@@ -32,27 +32,27 @@
     <message>
         <location filename="ConfigDialog.cpp" line="275"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Γενικά</translation>
     </message>
     <message>
         <location filename="ConfigDialog.cpp" line="278"/>
         <source>Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Επεξεργαστής</translation>
     </message>
     <message>
         <location filename="ConfigDialog.cpp" line="293"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>ΟΚ</translation>
     </message>
     <message>
         <location filename="ConfigDialog.cpp" line="294"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <location filename="ConfigDialog.cpp" line="313"/>
         <source>Aseba Studio - Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Aseba Studio - Ρυθμίσεις</translation>
     </message>
 </context>
 <context>
@@ -60,22 +60,22 @@
     <message>
         <location filename="NamedValuesVectorModel.cpp" line="319"/>
         <source>Constant already defined</source>
-        <translation type="unfinished"></translation>
+        <translation>Σταθερά ήδη δηλωμένη</translation>
     </message>
     <message>
         <location filename="NamedValuesVectorModel.cpp" line="319"/>
         <source>Constant %0 is already defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Η σταθερά %0 είναι ήδη δηλωμένη.</translation>
     </message>
     <message>
         <location filename="NamedValuesVectorModel.cpp" line="325"/>
         <source>The name is a keyword</source>
-        <translation type="unfinished"></translation>
+        <translation>Το όνομα είναι δεσμευμένη λέξη</translation>
     </message>
     <message>
         <location filename="NamedValuesVectorModel.cpp" line="325"/>
         <source>The name &lt;tt&gt;%0&lt;/tt&gt; cannot be used as a constant, because it is a language keyword.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το όνομα &lt;tt&gt;%0&lt;/tt&gt; δε μπορεί να χρησιμοποιηθεί ως σταθερά, διότι αποτελεί δεσμευμένη λέξη της γλώσσας.</translation>
     </message>
 </context>
 <context>
@@ -83,42 +83,42 @@
     <message>
         <location filename="DashelTarget.cpp" line="74"/>
         <source>Network (TCP)</source>
-        <translation type="unfinished"></translation>
+        <translation>Δίκτυο (TCP)</translation>
     </message>
     <message>
         <location filename="DashelTarget.cpp" line="78"/>
         <source>Host</source>
-        <translation type="unfinished"></translation>
+        <translation>Διακομιστής</translation>
     </message>
     <message>
         <location filename="DashelTarget.cpp" line="79"/>
         <source>Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Θύρα</translation>
     </message>
     <message>
         <location filename="DashelTarget.cpp" line="91"/>
         <source>Serial</source>
-        <translation type="unfinished"></translation>
+        <translation>Σειριακό</translation>
     </message>
     <message>
         <location filename="DashelTarget.cpp" line="105"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσαρμογή</translation>
     </message>
     <message>
         <location filename="DashelTarget.cpp" line="136"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Σύνδεση</translation>
     </message>
     <message>
         <location filename="DashelTarget.cpp" line="139"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <location filename="DashelTarget.cpp" line="144"/>
         <source>Aseba Target Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλογή Στόχου Aseba</translation>
     </message>
 </context>
 <context>
@@ -126,22 +126,22 @@
     <message>
         <location filename="DashelTarget.cpp" line="303"/>
         <source>Thymio not found</source>
-        <translation type="unfinished"></translation>
+        <translation>Δε βρέθηκε Thymio</translation>
     </message>
     <message>
         <location filename="DashelTarget.cpp" line="303"/>
         <source>&lt;p&gt;&lt;b&gt;Cannot find Thymio!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Connect a Thymio to your computer using the USB cable/dongle, and make sure no other program is using Thymio.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Το Thymio δε μπορεί να βρεθεί!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Συνδέστε ένα Thymio στον υπολογιστή σας χρησιμοποιώντας το USB καλώδιο/ασύρματο πομποδέκτη (dongle), και βεβαιωθείτε ότι κανένα άλλο πρόγραμμα δε χρησιμοποιεί το Thymio.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="DashelTarget.cpp" line="305"/>
         <source>Connection to command line target failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Η σύνδεση με το στόχο της γραμμής εντολών απέτυχε</translation>
     </message>
     <message>
         <location filename="DashelTarget.cpp" line="305"/>
         <source>Cannot connect to target %0</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν είναι δυνατή η σύνδεση με το στόχο %0</translation>
     </message>
 </context>
 <context>
@@ -149,17 +149,17 @@
     <message>
         <location filename="ConfigDialog.cpp" line="194"/>
         <source>Editor Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Ρύθμιση Επεξεργαστή</translation>
     </message>
     <message>
         <location filename="ConfigDialog.cpp" line="197"/>
         <source>Autocompletion</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτόματη συμπλήρωση</translation>
     </message>
     <message>
         <location filename="ConfigDialog.cpp" line="202"/>
         <source>Keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεσμευμένες λέξεις</translation>
     </message>
 </context>
 <context>
@@ -167,54 +167,54 @@
     <message>
         <location filename="EventViewer.cpp" line="95"/>
         <source>Time (seconds)</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρόνος (δευτερόλεπτα)</translation>
     </message>
     <message>
         <location filename="EventViewer.cpp" line="96"/>
         <source>Values</source>
-        <translation type="unfinished"></translation>
+        <translation>Τιμές</translation>
     </message>
     <message>
         <location filename="EventViewer.cpp" line="120"/>
         <location filename="EventViewer.cpp" line="213"/>
         <source>Recording...</source>
-        <translation type="unfinished"></translation>
+        <translation>Εγγραφή...</translation>
     </message>
     <message>
         <location filename="EventViewer.cpp" line="123"/>
         <location filename="EventViewer.cpp" line="215"/>
         <source>&amp;Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Παύση</translation>
     </message>
     <message>
         <location filename="EventViewer.cpp" line="127"/>
         <source>&amp;Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Καθαρισμός</translation>
     </message>
     <message>
         <location filename="EventViewer.cpp" line="132"/>
         <source>time &amp;window:</source>
-        <translation type="unfinished"></translation>
+        <translation>παράθυρο &amp;χρόνου:</translation>
     </message>
     <message>
         <location filename="EventViewer.cpp" line="144"/>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση &amp;Ως...</translation>
     </message>
     <message>
         <location filename="EventViewer.cpp" line="204"/>
         <source>Paused...</source>
-        <translation type="unfinished"></translation>
+        <translation>Σε παύση...</translation>
     </message>
     <message>
         <location filename="EventViewer.cpp" line="206"/>
         <source>&amp;Record</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Εγγραφή</translation>
     </message>
     <message>
         <location filename="EventViewer.cpp" line="233"/>
         <source>Save plot data to file</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση δεδομένων γραφήματος σε αρχείο</translation>
     </message>
 </context>
 <context>
@@ -222,75 +222,78 @@
     <message>
         <location filename="FindDialog.cpp" line="41"/>
         <source>Aseba Studio - Search and Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Aseba Studio - Αναζήτηση και Αντικατάσταση</translation>
     </message>
     <message>
         <location filename="FindDialog.cpp" line="43"/>
         <source>&amp;Search for:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Αναζήτηση για:</translation>
     </message>
     <message>
         <location filename="FindDialog.cpp" line="50"/>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Διάκριση μεταξύ πεζών και κεφαλαίων χαρακτήρων</translation>
     </message>
     <message>
         <location filename="FindDialog.cpp" line="51"/>
         <source>&amp;Whole words</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ολόκληρες λέξεις</translation>
     </message>
     <message>
         <location filename="FindDialog.cpp" line="52"/>
         <source>Re&amp;gular expressions</source>
-        <translation type="unfinished"></translation>
+        <translation>Κα&amp;νονικές εκφράσεις</translation>
     </message>
     <message>
         <location filename="FindDialog.cpp" line="58"/>
         <source>&amp;Find Next</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Εύρεση Επόμενου</translation>
     </message>
     <message>
         <location filename="FindDialog.cpp" line="60"/>
         <source>Find &amp;Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Εύρεση &amp;Προηγούμενου</translation>
     </message>
     <message>
         <location filename="FindDialog.cpp" line="61"/>
         <source>Find from &amp;Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Εύρεση από την &amp;Αρχή</translation>
     </message>
     <message>
         <location filename="FindDialog.cpp" line="70"/>
         <source>&amp;Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Αντικατάσταση</translation>
     </message>
     <message>
         <location filename="FindDialog.cpp" line="73"/>
         <source>w&amp;ith:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;με:</translation>
     </message>
     <message>
         <location filename="FindDialog.cpp" line="79"/>
         <source>Replace and
 Find &amp;Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντικατάσταση και 
+Εύρεση &amp;Επομένου</translation>            
     </message>
     <message>
         <location filename="FindDialog.cpp" line="80"/>
         <source>Replace and
 Find Previo&amp;us</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντικατάσταση και 
+Εύρεση Προηγούμε&amp;νου</translation>
     </message>
     <message>
         <location filename="FindDialog.cpp" line="81"/>
         <source>Replace &amp;All
 Occurrences</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντικατάσταση &amp;Όλων
+των Εμφανίσεων</translation>
     </message>
     <message>
         <location filename="FindDialog.cpp" line="184"/>
         <source>End of document reached!</source>
-        <translation type="unfinished"></translation>
+        <translation>Τέλος εγγράφου!</translation>
     </message>
 </context>
 <context>
@@ -298,32 +301,32 @@ Occurrences</source>
     <message>
         <location filename="ConfigDialog.cpp" line="157"/>
         <source>General Setup</source>
-        <translation type="unfinished"></translation>
+        <translation>Γενικές Ρυθμίσεις</translation>
     </message>
     <message>
         <location filename="ConfigDialog.cpp" line="159"/>
         <source>Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Διάταξη</translation>
     </message>
     <message>
         <location filename="ConfigDialog.cpp" line="164"/>
         <source>Show keyword toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση γραμμής εργαλείων με δεσμευμένες λέξεις</translation>
     </message>
     <message>
         <location filename="ConfigDialog.cpp" line="166"/>
         <source>Show memory usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση χρήσης μνήμης</translation>
     </message>
     <message>
         <location filename="ConfigDialog.cpp" line="168"/>
         <source>Show hidden variables</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση κρυφών μεταβλητών</translation>
     </message>
     <message>
         <location filename="ConfigDialog.cpp" line="170"/>
         <source>Show line numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση αριθμών γραμμών</translation>
     </message>
 </context>
 <context>
