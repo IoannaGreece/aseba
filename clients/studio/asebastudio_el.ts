@@ -491,330 +491,331 @@ Occurrences</source>
     <message>
         <location filename="MainWindow.cpp" line="1897"/>
         <source>Error in XML source file: %0 at line %1, column %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα στο XML πηγαίο αρχείο: %0 στη γραμμή %1, στήλη %2</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="1922"/>
         <source>Save Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση Σεναρίου (Script)</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2040"/>
         <source>Export memory content</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξαγωγή περιεχομένου μνήμης</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2072"/>
         <source>Import memory content</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή περιεχομένου μνήμης</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2108"/>
         <source>%0 on node %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%0 στον κόμβο %1</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2121"/>
         <source>The following nodes are not present in the current network and their associated content was not imported:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Οι ακόλουθοι κόμβοι δεν υπάρχουν στο παρόν δίκτυο και δεν έγινε εισαγωγή του σχετικού περιεχομένου τους:</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2127"/>
         <source>The following variables are not present in the current network and their associated content was not imported:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Οι ακόλουθες μεταβλητές δεν υπάρχουν στο παρόν δίκτυο και δεν έγινε εισαγωγή του σχετικού περιεχομένου τους:</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2132"/>
         <source>Some content was not imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν έγινε εισαγωγή μερικού περιεχομένου</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2210"/>
         <source>Go To Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Πήγαινε στη γραμμή</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2210"/>
         <source>Line:</source>
-        <translation type="unfinished"></translation>
+        <translation>Γραμμή:</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2369"/>
         <source>Specify event arguments</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσδιορίστε τα ορίσματα του συμβάντος</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2369"/>
         <source>Please specify the %0 arguments of event %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Παρακαλώ προσδιορίστε τα %0 ορίσματα του συμβάντος %1</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2376"/>
         <source>Wrong number of arguments</source>
-        <translation type="unfinished"></translation>
+        <translation>Λανθασμένο πλήθος ορισμάτων</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2377"/>
         <source>You gave %0 arguments where event %1 requires %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Δώσατε %0 ορίσματα όπου το συμβάν %1 απαιτεί %2</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2387"/>
         <source>Invalid value</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη έγκυρη τιμή</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2388"/>
         <source>Invalid value for argument %0 of event %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη έγκυρη τιμή για το όρισμα %0 του συμβάντος %1</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2435"/>
         <source>Plot event %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Γράφημα συμβάντος %1</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2451"/>
         <source>plot of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>γράφημα του %1</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2587"/>
         <location filename="MainWindow.cpp" line="3137"/>
         <source>Add a new event</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσθήκη νέου συμβάντος</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2587"/>
         <location filename="MainWindow.cpp" line="2678"/>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα:</translation>>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2587"/>
         <source>Number of arguments</source>
         <comment>For the newly created event</comment>
-        <translation type="unfinished"></translation>
+        <translation>Πλήθος ορισμάτων</translation>
+        <comment>Για το νέο συμβάν</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2594"/>
         <source>Event already exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Το συμβάν υπάρχει ήδη</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2594"/>
         <source>Event %0 already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το συμβάν %0 υπάρχει ήδη.</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2598"/>
         <source>Invalid event name</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη έγκυρο όνομα συμβάντος</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2598"/>
         <source>Event %0 has an invalid name. Valid names start with an alphabetical character or an &quot;_&quot;, and continue with any number of alphanumeric characters, &quot;_&quot; and &quot;.&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Το συμβάν %0 έχει μη έγκυρο όνομα. Τα έγκυρα ονόματα ξεκινούν με έναν αλφαβητικό χαρακτήρα ή &quot;_&quot;, και συνεχίζουν με οποιοδήποτε πλήθος αλφαριθμητικών χαρακτήρων, &quot;_&quot; και &quot;.&quot;</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2625"/>
         <source>Desynchronised! Please reload.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποσυγχρονισμός! Παρακαλώ επαναφορτώστε.</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2678"/>
         <location filename="MainWindow.cpp" line="3071"/>
         <source>Add a new constant</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσθήκη νέας σταθεράς</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2678"/>
         <source>Value</source>
         <comment>Value assigned to the constant</comment>
-        <translation type="unfinished"></translation>
+        <translation>Τιμή</translation>
+        <comment>Τιμή ανάθεσης στη μεταβλητή</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2816"/>
-        <source>
-event %0 : </source>
-        <translation type="unfinished"></translation>
+        <source>event %0 : </source>
+        <translation>συμβάν %0 : </translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2855"/>
         <source>array access at %0 out of bounds [0..%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>πρόσβαση πίνακα σε %0 εκτός ορίων [0..%1]</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2861"/>
         <source>division by zero</source>
-        <translation type="unfinished"></translation>
+        <translation>διαίρεση με μηδέν</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2867"/>
         <source>event execution killed</source>
-        <translation type="unfinished"></translation>
+        <translation>διακοπή εκτέλεσης συμβάντος</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2889"/>
         <source>%0:%1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%0:%1: %2</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3072"/>
         <source>Remove this constant</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή αυτής της σταθεράς</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3092"/>
         <source>&lt;b&gt;Constants&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Σταθερές&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3138"/>
         <source>Remove this event</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή αυτού του συμβάντος</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3139"/>
         <source>Send this event</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή αυτού του συμβάντος</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3144"/>
         <source>Plot this event</source>
-        <translation type="unfinished"></translation>
+        <translation>Γράφημα αυτού του συμβάντος</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3165"/>
         <source>&lt;b&gt;Global Events&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Καθολικά Συμβάντα&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3188"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Καθαρισμός</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3325"/>
         <source>...inside %0</source>
-        <translation type="unfinished"></translation>
+        <translation>...εντός %0</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3328"/>
         <source>...%0</source>
-        <translation type="unfinished"></translation>
+        <translation>...%0</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3330"/>
         <source>...of %0</source>
-        <translation type="unfinished"></translation>
+        <translation>...του %0</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3338"/>
         <source>...inside all nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>...εντός όλων των κόμβων</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3341"/>
         <source>...all nodes</source>
-        <translation type="unfinished"></translation>
+        <translation>...όλοι οι κόμβοι</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3348"/>
         <source>&amp;User Manual...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Εγχειρίδιο Οδηγιών Χρήστη...</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3352"/>
         <source>Web site Aseba...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ιστότοπος Aseba...</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3353"/>
         <source>Report bug...</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναφορά προβλήματος...</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3353"/>
         <source>http://github.com/aseba-community/aseba/issues/new</source>
-        <translation type="unfinished"></translation>
+        <translation>http://github.com/aseba-community/aseba/issues/new</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3360"/>
         <source>&amp;About...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Σχετικά με...</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3361"/>
         <source>About &amp;Qt...</source>
-        <translation type="unfinished"></translation>
+        <translation>Σχετικά με το &amp;Qt...</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3390"/>
         <source>Thymio programming tutorial...</source>
-        <translation type="unfinished"></translation>
+        <translation>Εγχειρίδιο διδασκαλίας προγραμματισμού του Thymio...</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3392"/>
         <source>http://aseba.wikidot.com/en:thymiotutoriel</source>
-        <translation type="unfinished"></translation>
+        <translation>http://aseba.wikidot.com/en:thymiotutoriel</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3395"/>
         <source>Thymio programming interface...</source>
-        <translation type="unfinished"></translation>
+        <translation>Διεπαφή προγραμματισμού του Thymio...</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3397"/>
         <source>http://aseba.wikidot.com/en:thymioapi</source>
-        <translation type="unfinished"></translation>
+        <translation>http://aseba.wikidot.com/en:thymioapi</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3403"/>
         <source>Challenge tutorial...</source>
-        <translation type="unfinished"></translation>
+        <translation>Εγχειρίδιο διδασκαλίας του Challenge...</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3405"/>
         <source>http://aseba.wikidot.com/en:gettingstarted</source>
-        <translation type="unfinished"></translation>
+        <translation>http://aseba.wikidot.com/en:gettingstarted</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3411"/>
         <source>MarXbot user manual...</source>
-        <translation type="unfinished"></translation>
+        <translation>Εγχειρίδιο οδηγιών χρήστη του MarXbot...</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3413"/>
         <source>http://mobots.epfl.ch/data/robots/marxbot-user-manual.pdf</source>
-        <translation type="unfinished"></translation>
+        <translation>http://mobots.epfl.ch/data/robots/marxbot-user-manual.pdf</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3433"/>
         <source>&amp;File</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Αρχείο</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3436"/>
         <source>&amp;New</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Δημιουργία</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3438"/>
         <source>&amp;Open...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Άνοιγμα...</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3440"/>
         <source>Open &amp;Recent</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα &amp;Πρόσφατου</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3444"/>
         <source>&amp;Save...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Αποθήκευση...</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3446"/>
