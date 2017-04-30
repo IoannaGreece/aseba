@@ -825,272 +825,281 @@ Occurrences</source>
     <message>
         <location filename="MainWindow.cpp" line="3450"/>
         <source>Export &amp;memories content...</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξαγωγή &amp;περιεχομένου μνημών...</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3452"/>
         <source>&amp;Import memories content...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Εισαγωγή περιεχομένου μνημών...</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3459"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Έξοδος</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3463"/>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Αποκοπή</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3467"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Αντιγραφή</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3471"/>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Επικόλληση</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3475"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Αναίρεση</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3479"/>
         <source>Re&amp;do</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Επανάληψη</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3483"/>
         <source>&amp;Find...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Εύρεση...</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3488"/>
         <source>&amp;Replace...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Αντικατάσταση...</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3493"/>
         <source>&amp;Go To Line...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Πήγαινε Στη Γραμμή...</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3494"/>
         <source>Ctrl+G</source>
         <comment>Edit|Go To Line</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+G</translation>
+        <comment>Επεξεργασία|Πήγαινε Στη Γραμμή</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3498"/>
         <source>Comment the selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Σχολιασμός της επιλογής</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3499"/>
         <source>Ctrl+D</source>
         <comment>Edit|Comment the selection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
+        <comment>Επεξεργασία|Σχολιασμός της επιλογής</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3502"/>
         <source>Uncomment the selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναίρεση σχολιασμού της επιλογής</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3503"/>
         <source>Shift+Ctrl+D</source>
         <comment>Edit|Uncomment the selection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Shift+Ctrl+D</translation>
+        <comment>Επεξεργασία|Αναίρεση σχολιασμού της επιλογής</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3506"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Επεξεργασία</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3512"/>
         <source>Copy &amp;all</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή &amp;όλων</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3526"/>
         <source>Show &amp;keywords</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση &amp;δεσμευμένων λέξεων</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3530"/>
         <source>Show &amp;memory usage</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση &amp;χρήσης μνήμης</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3534"/>
         <source>S&amp;how hidden variables and functions</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Εμφάνιση κρυφών μεταβλητών και συναρτήσεων</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3538"/>
         <source>Show &amp;Line Numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση &amp;Αριθμών Γραμμών</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3539"/>
         <source>F11</source>
         <comment>View|Show Line Numbers</comment>
-        <translation type="unfinished"></translation>
+        <translation>F11</translation>
+        <comment>Προβολή|Εμφάνιση Αριθμών Γραμμών</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3543"/>
         <source>&amp;Increase font size</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Αύξηση μεγέθους γραμματοσειράς</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3548"/>
         <source>&amp;Decrease font size</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Μείωση μεγέθους γραμματοσειράς</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3553"/>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Προβολή</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3565"/>
         <source>&amp;Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ρυθμίσεις</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3570"/>
         <source>&amp;Load all</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Φόρτωση όλων</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3571"/>
         <source>F7</source>
         <comment>Load|Load all</comment>
-        <translation type="unfinished"></translation>
+        <translation>F7</translation>
+        <comment>Φόρτωση|Φόρτωση όλων</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3573"/>
         <source>&amp;Reset all</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Επαναφορά όλων</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3574"/>
         <source>F8</source>
         <comment>Debug|Reset all</comment>
-        <translation type="unfinished"></translation>
+        <translation>F8</translation>
+        <comment>Εκσφαλμάτωση|Επαναφορά όλων</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3576"/>
         <source>Ru&amp;n all</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Εκτέλεση όλων</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3577"/>
         <source>F9</source>
         <comment>Debug|Run all</comment>
-        <translation type="unfinished"></translation>
+        <translation>F9</translation>
+        <comment>Εκσφαλμάτωση|Εκτέλεση όλων</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3579"/>
         <source>&amp;Pause all</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Παύση όλων</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3580"/>
         <source>F10</source>
         <comment>Debug|Pause all</comment>
-        <translation type="unfinished"></translation>
+        <translation>F10</translation>
+        <comment>Εκσφαλμάτωση|Παύση όλων</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3583"/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκσφαλμάτωση</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3592"/>
         <source>Toggle breakpoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Εναλλαγή σημείου διακοπής</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3593"/>
         <source>Ctrl+B</source>
         <comment>Debug|Toggle breakpoint</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+B</translation>
+        <comment>Εκσφαλμάτωση|Εναλλαγή σημείου διακοπής</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3596"/>
         <source>Clear all breakpoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Καθαρισμός όλων των σημείων διακοπής</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3600"/>
         <source>&amp;Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Εκσφαλμάτωση</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3611"/>
         <source>&amp;Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Εργαλεία</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3616"/>
         <source>&amp;Show last compilation messages</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Εμφάνιση τελευταίων μηνυμάτων μεταγλώττισης</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3622"/>
         <source>Write the program(s)...</source>
-        <translation type="unfinished"></translation>
+        <translation>Γράψιμο προγράμματος/προγραμμάτων...</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3624"/>
         <source>Reboot...</source>
-        <translation type="unfinished"></translation>
+        <translation>Επανεκκίνηση...</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3626"/>
         <source>Save the binary code...</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση του δυαδικού κώδικα...</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3630"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Βοήθεια</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3651"/>
         <location filename="MainWindow.cpp" line="3725"/>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>Χωρίς τίτλο</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3656"/>
         <source>Aseba Studio - Confirmation Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Aseba Studio - Διάλογος Επιβεβαίωσης</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3657"/>
         <source>The document &quot;%0&quot; has been modified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το έγγραφο &quot;%0&quot; έχει τροποποιηθεί.</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3658"/>
         <source>Do you want to save your changes or discard them?</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιθυμείτε να αποθηκεύσετε τις αλλαγές σας ή να τις απορρίψετε;</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3723"/>
         <source>[modified] </source>
-        <translation type="unfinished"></translation>
+        <translation>[τροποποιημένο] </translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3729"/>
         <source>%0 %1- Aseba Studio</source>
-        <translation type="unfinished"></translation>
+        <translation>%0 %1- Aseba Studio</translation>
     </message>
 </context>
 <context>
@@ -1098,12 +1107,12 @@ Occurrences</source>
     <message>
         <location filename="NamedValuesVectorModel.cpp" line="369"/>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Απόκρυψη</translation>
     </message>
     <message>
         <location filename="NamedValuesVectorModel.cpp" line="370"/>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή</translation>
     </message>
 </context>
 <context>
@@ -1112,13 +1121,15 @@ Occurrences</source>
         <location filename="MainWindow.cpp" line="1539"/>
         <source>Name</source>
         <comment>Name of the named value (can be a constant, event,...)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα</translation>
+        <comment>Όνομα της ορισμένης τιμής (μπορεί να είναι σταθερά, συμβάν,...)</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="1541"/>
         <source>Default description</source>
         <comment>When no description is given for the named value</comment>
-        <translation type="unfinished"></translation>
+        <translation>Προκαθορισμένη περιγραφή</translation>
+        <comment>Όταν δε δίνεται περιγραφή της ορισμένης τιμής</comment>
     </message>
 </context>
 <context>
@@ -1126,23 +1137,23 @@ Occurrences</source>
     <message>
         <location filename="MainWindow.cpp" line="452"/>
         <source>&lt;b&gt;Keywords&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Δεσμευμένες λέξεις&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="473"/>
         <location filename="MainWindow.cpp" line="1211"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>άγνωστο</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="475"/>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Φόρτωση</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="476"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Επαναφορά</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="478"/>
@@ -1150,103 +1161,103 @@ Occurrences</source>
         <location filename="MainWindow.cpp" line="1354"/>
         <location filename="MainWindow.cpp" line="1368"/>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκτέλεση</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="480"/>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation>Επόμενο</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="482"/>
         <source>refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>ανανέωση</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="483"/>
         <source>auto</source>
-        <translation type="unfinished"></translation>
+        <translation>αυτόματο</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="486"/>
         <source>&lt;b&gt;Execution&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Εκτέλεση&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="509"/>
         <source>&lt;b&gt;Variables&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Μεταβλητές&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="516"/>
         <source>F&amp;ilter:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Φίλτρο</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="556"/>
         <source>Native Functions</source>
-        <translation type="unfinished"></translation>
+        <translation>Εγγενείς Συναρτήσεις</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="557"/>
         <source>Local Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Τοπικά Γεγονότα</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="561"/>
         <source>Local Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Τοπικά Εργαλεία</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="864"/>
         <source>Save the binary code of %0</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση του δυαδικού κώδικα του %0</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="1114"/>
         <source>Aseba Studio: Output of last compilation for %0</source>
-        <translation type="unfinished"></translation>
+        <translation>Aseba Studio: Έξοδος της τελευταίας μεταγλώττισης για %0</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="1119"/>
         <location filename="MainWindow.cpp" line="1158"/>
         <source>Compilation success.</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιτυχής μεταγλώττιση.</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="1139"/>
         <source>variables: %1 on %2 (%3%)</source>
-        <translation type="unfinished"></translation>
+        <translation>μεταβλητές: %1 σε %2 (%3%)</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="1140"/>
         <source>bytecode: %1 on %2 (%3%)</source>
-        <translation type="unfinished"></translation>
+        <translation>ενδιάμεσος κώδικας: %1 σε %2 (%3%)</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="1141"/>
         <source>&lt;b&gt;Memory usage&lt;/b&gt; : %1, %2</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Χρήση μνήμης&lt;/b&gt; : %1, %2</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="1340"/>
         <source>running</source>
-        <translation type="unfinished"></translation>
+        <translation>σε εκτέλεση</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="1342"/>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Παύση</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="1352"/>
         <source>step by step</source>
-        <translation type="unfinished"></translation>
+        <translation>βήμα-βήμα</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="1366"/>
         <source>stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>σταματημένο</translation>
     </message>
 </context>
 <context>
@@ -1254,17 +1265,17 @@ Occurrences</source>
     <message>
         <location filename="DashelTarget.cpp" line="846"/>
         <source>Connection closed</source>
-        <translation type="unfinished"></translation>
+        <translation>Διακοπή σύνδεσης</translation>
     </message>
     <message>
         <location filename="DashelTarget.cpp" line="847"/>
         <source>Warning, connection closed: I am trying to reconnect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Προειδοποίηση, διακοπή σύνδεσης: Προσπαθώ να επανασυνδεθώ.</translation>
     </message>
     <message>
         <location filename="DashelTarget.cpp" line="848"/>
         <source>Stop trying</source>
-        <translation type="unfinished"></translation>
+        <translation>Σταμάτημα προσπάθειας</translation>
     </message>
 </context>
 <context>
@@ -1272,7 +1283,7 @@ Occurrences</source>
     <message>
         <location filename="plugins/StopThymioPlugin.cpp" line="34"/>
         <source>Stop Thymio</source>
-        <translation type="unfinished"></translation>
+        <translation>Σταμάτημα του Thymio</translation>
     </message>
 </context>
 <context>
@@ -1281,7 +1292,7 @@ Occurrences</source>
         <location filename="TargetModels.cpp" line="602"/>
         <location filename="TargetModels.cpp" line="621"/>
         <source>hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>κρυφό</translation>
     </message>
 </context>
 <context>
@@ -1289,12 +1300,12 @@ Occurrences</source>
     <message>
         <location filename="TargetModels.cpp" line="180"/>
         <source>names</source>
-        <translation type="unfinished"></translation>
+        <translation>ονόματα</translation>
     </message>
     <message>
         <location filename="TargetModels.cpp" line="182"/>
         <source>values</source>
-        <translation type="unfinished"></translation>
+        <translation>τιμές</translation>
     </message>
 </context>
 <context>
@@ -1302,72 +1313,72 @@ Occurrences</source>
     <message>
         <location filename="plugins/ThymioBlockly/ThymioBlockly.cpp" line="71"/>
         <source>Thymio Blockly Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Διεπαφή Thymio Blockly</translation>
     </message>
     <message>
         <location filename="plugins/ThymioBlockly/ThymioBlockly.cpp" line="85"/>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Δημιουργία</translation>
     </message>
     <message>
         <location filename="plugins/ThymioBlockly/ThymioBlockly.cpp" line="92"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα</translation>
     </message>
-    <message>
+    <message><translation>Αποθήκευση</translation>
         <location filename="plugins/ThymioBlockly/ThymioBlockly.cpp" line="99"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση</translation>
     </message>
     <message>
         <location filename="plugins/ThymioBlockly/ThymioBlockly.cpp" line="106"/>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση ως</translation>
     </message>
     <message>
         <location filename="plugins/ThymioBlockly/ThymioBlockly.cpp" line="127"/>
         <source>Load &amp; Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Φόρτωση &amp; Εκτέλεση</translation>
     </message>
     <message>
         <location filename="plugins/ThymioBlockly/ThymioBlockly.cpp" line="137"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Σταμάτημα</translation>
     </message>
     <message>
         <location filename="plugins/ThymioBlockly/ThymioBlockly.cpp" line="158"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Βοήθεια</translation>
     </message>
     <message>
         <location filename="plugins/ThymioBlockly/ThymioBlockly.cpp" line="165"/>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Στιγμιότυπο οθόνης</translation>
     </message>
     <message>
         <location filename="plugins/ThymioBlockly/ThymioBlockly.cpp" line="223"/>
         <source>http://aseba.wikidot.com/en:blocklyprogramming</source>
-        <translation type="unfinished"></translation>
+        <translation>http://aseba.wikidot.com/en:blocklyprogramming</translation>
     </message>
     <message>
         <location filename="plugins/ThymioBlockly/ThymioBlockly.cpp" line="238"/>
         <source>Export program as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξαγωγή προγράμματος ως εικόνα</translation>
     </message>
     <message>
         <location filename="plugins/ThymioBlockly/ThymioBlockly.cpp" line="260"/>
         <source>Launch Blockly</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκκίνηση Blockly</translation>
     </message>
     <message>
         <location filename="plugins/ThymioBlockly/ThymioBlockly.cpp" line="398"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Προειδοποίηση</translation>
     </message>
     <message>
         <location filename="plugins/ThymioBlockly/ThymioBlockly.cpp" line="399"/>
         <source>The Blockly document has been modified.&lt;p&gt;Do you want to save the changes?</source>
-        <translation type="unfinished"></translation>
+        <translation>Το έγγραφο Blockly έχει τροποποιηθεί.&lt;p&gt;Επιθυμείτε να αποθηκεύσετε τις αλλαγές;</translation>
     </message>
 </context>
 <context>
@@ -1375,17 +1386,17 @@ Occurrences</source>
     <message>
         <location filename="plugins/ThymioVPL/Block.cpp" line="131"/>
         <source>buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>πλήκτρα</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/Block.cpp" line="133"/>
         <source>horizontal proximity sensors</source>
-        <translation type="unfinished"></translation>
+        <translation>αισθητήρες οριζόντιας εγγύτητας</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/Block.cpp" line="135"/>
         <source>ground proximity sensors</source>
-        <translation type="unfinished"></translation>
+        <translation>αισθητήρες εγγύτητας εδάφους</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/Block.cpp" line="137"/>
