@@ -274,7 +274,7 @@
         <source>Replace and
 Find &amp;Next</source>
         <translation>Αντικατάσταση και 
-Εύρεση &amp;Επομένου</translation>            
+Εύρεση &amp;Επόμενου</translation>            
     </message>
     <message>
         <location filename="FindDialog.cpp" line="80"/>
@@ -818,7 +818,7 @@ Occurrences</source>
     <message>
         <location filename="MainWindow.cpp" line="3446"/>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση &amp;Ως...</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3450"/>
@@ -931,12 +931,12 @@ Occurrences</source>
     <message>
         <location filename="MainWindow.cpp" line="3538"/>
         <source>Show &amp;Line Numbers</source>
-        <translation>Εμφάνιση &amp;Αριθμών Γραμμών</translation>
+        <translation>Εμφάνιση &amp;Αριθμών των Γραμμών</translation>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3539"/>
         <source>F11</source>
-        <comment>View|Show Line Numbers (Προβολή|Εμφάνιση Αριθμών Γραμμών)</comment>
+        <comment>View|Show Line Numbers (Προβολή|Εμφάνιση Αριθμών των Γραμμών)</comment>
         <translation>F11</translation>
     </message>
     <message>
