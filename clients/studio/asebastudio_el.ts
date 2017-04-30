@@ -595,9 +595,8 @@ Occurrences</source>
     <message>
         <location filename="MainWindow.cpp" line="2587"/>
         <source>Number of arguments</source>
-        <comment>For the newly created event</comment>
+        <comment>For the newly created event (Για το νέο συμβάν)</comment>
         <translation>Πλήθος ορισμάτων</translation>
-        <comment>Για το νέο συμβάν</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2594"/>
@@ -633,9 +632,8 @@ Occurrences</source>
     <message>
         <location filename="MainWindow.cpp" line="2678"/>
         <source>Value</source>
-        <comment>Value assigned to the constant</comment>
+        <comment>Value assigned to the constant (Τιμή ανάθεσης στη μεταβλητή)</comment>
         <translation>Τιμή</translation>
-        <comment>Τιμή ανάθεσης στη μεταβλητή</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="2816"/>
@@ -880,9 +878,8 @@ Occurrences</source>
     <message>
         <location filename="MainWindow.cpp" line="3494"/>
         <source>Ctrl+G</source>
-        <comment>Edit|Go To Line</comment>
+        <comment>Edit|Go To Line (Επεξεργασία|Πήγαινε Στη Γραμμή)</comment>
         <translation>Ctrl+G</translation>
-        <comment>Επεξεργασία|Πήγαινε Στη Γραμμή</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3498"/>
@@ -892,9 +889,8 @@ Occurrences</source>
     <message>
         <location filename="MainWindow.cpp" line="3499"/>
         <source>Ctrl+D</source>
-        <comment>Edit|Comment the selection</comment>
+        <comment>Edit|Comment the selection (Επεξεργασία|Σχολιασμός της επιλογής)</comment>
         <translation>Ctrl+D</translation>
-        <comment>Επεξεργασία|Σχολιασμός της επιλογής</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3502"/>
@@ -904,9 +900,8 @@ Occurrences</source>
     <message>
         <location filename="MainWindow.cpp" line="3503"/>
         <source>Shift+Ctrl+D</source>
-        <comment>Edit|Uncomment the selection</comment>
+        <comment>Edit|Uncomment the selection (Επεξεργασία|Αναίρεση σχολιασμού της επιλογής)</comment>
         <translation>Shift+Ctrl+D</translation>
-        <comment>Επεξεργασία|Αναίρεση σχολιασμού της επιλογής</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3506"/>
@@ -941,9 +936,8 @@ Occurrences</source>
     <message>
         <location filename="MainWindow.cpp" line="3539"/>
         <source>F11</source>
-        <comment>View|Show Line Numbers</comment>
+        <comment>View|Show Line Numbers (Προβολή|Εμφάνιση Αριθμών Γραμμών)</comment>
         <translation>F11</translation>
-        <comment>Προβολή|Εμφάνιση Αριθμών Γραμμών</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3543"/>
@@ -973,9 +967,8 @@ Occurrences</source>
     <message>
         <location filename="MainWindow.cpp" line="3571"/>
         <source>F7</source>
-        <comment>Load|Load all</comment>
+        <comment>Load|Load all (Φόρτωση|Φόρτωση όλων)</comment>
         <translation>F7</translation>
-        <comment>Φόρτωση|Φόρτωση όλων</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3573"/>
@@ -985,9 +978,8 @@ Occurrences</source>
     <message>
         <location filename="MainWindow.cpp" line="3574"/>
         <source>F8</source>
-        <comment>Debug|Reset all</comment>
+        <comment>Debug|Reset all (Εκσφαλμάτωση|Επαναφορά όλων)</comment>
         <translation>F8</translation>
-        <comment>Εκσφαλμάτωση|Επαναφορά όλων</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3576"/>
@@ -997,9 +989,8 @@ Occurrences</source>
     <message>
         <location filename="MainWindow.cpp" line="3577"/>
         <source>F9</source>
-        <comment>Debug|Run all</comment>
+        <comment>Debug|Run all (Εκσφαλμάτωση|Εκτέλεση όλων)</comment>
         <translation>F9</translation>
-        <comment>Εκσφαλμάτωση|Εκτέλεση όλων</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3579"/>
@@ -1009,9 +1000,8 @@ Occurrences</source>
     <message>
         <location filename="MainWindow.cpp" line="3580"/>
         <source>F10</source>
-        <comment>Debug|Pause all</comment>
+        <comment>Debug|Pause all (Εκσφαλμάτωση|Παύση όλων)</comment>
         <translation>F10</translation>
-        <comment>Εκσφαλμάτωση|Παύση όλων</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3583"/>
@@ -1026,9 +1016,8 @@ Occurrences</source>
     <message>
         <location filename="MainWindow.cpp" line="3593"/>
         <source>Ctrl+B</source>
-        <comment>Debug|Toggle breakpoint</comment>
+        <comment>Debug|Toggle breakpoint (Εκσφαλμάτωση|Εναλλαγή σημείου διακοπής)</comment>
         <translation>Ctrl+B</translation>
-        <comment>Εκσφαλμάτωση|Εναλλαγή σημείου διακοπής</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="3596"/>
@@ -1120,16 +1109,14 @@ Occurrences</source>
     <message>
         <location filename="MainWindow.cpp" line="1539"/>
         <source>Name</source>
-        <comment>Name of the named value (can be a constant, event,...)</comment>
+        <comment>Name of the named value (can be a constant, event,...) [Όνομα της ορισμένης τιμής (μπορεί να είναι σταθερά, συμβάν,...)]</comment>
         <translation>Όνομα</translation>
-        <comment>Όνομα της ορισμένης τιμής (μπορεί να είναι σταθερά, συμβάν,...)</comment>
     </message>
     <message>
         <location filename="MainWindow.cpp" line="1541"/>
         <source>Default description</source>
-        <comment>When no description is given for the named value</comment>
+        <comment>When no description is given for the named value (Όταν δε δίνεται περιγραφή της ορισμένης τιμής)</comment>
         <translation>Προκαθορισμένη περιγραφή</translation>
-        <comment>Όταν δε δίνεται περιγραφή της ορισμένης τιμής</comment>
     </message>
 </context>
 <context>
@@ -1401,52 +1388,52 @@ Occurrences</source>
     <message>
         <location filename="plugins/ThymioVPL/Block.cpp" line="137"/>
         <source>tap detection / tilt</source>
-        <translation type="unfinished"></translation>
+        <translation>ανίχνευση χτυπήματος / κλίση</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/Block.cpp" line="139"/>
         <source>clap detection</source>
-        <translation type="unfinished"></translation>
+        <translation>ανίχνευση χειροκροτήματος</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/Block.cpp" line="141"/>
         <source>timer elapsed</source>
-        <translation type="unfinished"></translation>
+        <translation>τέλος χρονόμετρου</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/Block.cpp" line="143"/>
         <source>state filter</source>
-        <translation type="unfinished"></translation>
+        <translation>φίλτρο κατάστασης</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/Block.cpp" line="145"/>
         <source>motors</source>
-        <translation type="unfinished"></translation>
+        <translation>κινητήρες</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/Block.cpp" line="147"/>
         <source>top colour</source>
-        <translation type="unfinished"></translation>
+        <translation>χρώμα πάνω μέρους</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/Block.cpp" line="149"/>
         <source>bottom colour</source>
-        <translation type="unfinished"></translation>
+        <translation>χρώμα κάτω μέρους</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/Block.cpp" line="151"/>
         <source>music</source>
-        <translation type="unfinished"></translation>
+        <translation>μουσική</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/Block.cpp" line="153"/>
         <source>timer</source>
-        <translation type="unfinished"></translation>
+        <translation>χρονόμετρο</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/Block.cpp" line="155"/>
         <source>state</source>
-        <translation type="unfinished"></translation>
+        <translation>κατάσταση</translation>
     </message>
 </context>
 <context>
@@ -1455,17 +1442,17 @@ Occurrences</source>
         <location filename="plugins/ThymioVPL/EventActionsSet.cpp" line="616"/>
         <location filename="plugins/ThymioVPL/EventActionsSet.cpp" line="636"/>
         <source>Loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Φόρτωση</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/EventActionsSet.cpp" line="617"/>
         <source>Error in XML source file at %0:%1: cannot create block %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα στο XML πηγαίο αρχείο σε %0:%1: δε μπορεί να δημιουργηθεί το τμήμα %2</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/EventActionsSet.cpp" line="637"/>
         <source>Error in XML source file at %0:%1: unknown block type %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα στο XML πηγαίο αρχείο σε %0:%1: άγνωστος τύπος τμήματος %2</translation>
     </message>
 </context>
 <context>
@@ -1473,137 +1460,137 @@ Occurrences</source>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="79"/>
         <source>Thymio Visual Programming Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Οπτική Γλώσσα Προγραμματισμού του Thymio</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="93"/>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Δημιουργία</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="100"/>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="107"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="114"/>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση ως</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="132"/>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναίρεση</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="141"/>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Επανάληψη</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="153"/>
         <source>Load &amp; Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Φόρτωση &amp; Εκτέλεση</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="163"/>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Σταμάτημα</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="173"/>
         <source>Advanced mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Προχωρημένη λειτουργία</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="191"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Βοήθεια</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="198"/>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Στιγμιότυπο οθόνης</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="229"/>
         <source>Events</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμβάντα</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="255"/>
         <source>Compilation success.</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιτυχής μεταγλώττιση.</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="263"/>
         <source>show line</source>
-        <translation type="unfinished"></translation>
+        <translation>εμφάνιση γραμμής</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="311"/>
         <source>Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενέργειες</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="349"/>
         <source>http://aseba.wikidot.com/en:thymiovpl</source>
-        <translation type="unfinished"></translation>
+        <translation>http://aseba.wikidot.com/en:thymiovpl</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="365"/>
         <source>Export program as image</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξαγωγή προγράμματος ως εικόνα</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="431"/>
         <source>Launch VPL</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκκίνηση VPL</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="596"/>
         <source>Returning to simple mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιστροφή στη βασική λειτουργία</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="597"/>
         <source>You are currently using states. Returning to simple mode will discard any state filter or state setting card.&lt;p&gt;Are you sure you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρησιμοποιείτε καταστάσεις αυτή τη στιγμή. Επιστροφή στη βασική λειτουργία θα απορρίψει κάθε φίλτρο κατάστασης ή κάρτα ορισμού κατάστασης.&lt;p&gt;Είστε βέβαιοι ότι επιθυμείτε να συνεχίσετε;</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="637"/>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Προειδοποίηση</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="638"/>
         <source>The VPL document has been modified.&lt;p&gt;Do you want to save the changes?</source>
-        <translation type="unfinished"></translation>
+        <translation>Το VPL έγγραφο έχει τροποποιηθεί.&lt;p&gt;Επιθυμείτε να αποθηκεύσετε τις αλλαγές;</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="713"/>
         <source>Incompatible Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Μη συμβατή Έκδοση</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="713"/>
         <source>This file is incompatible with this version of ThymioVPL. It might not work correctly.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτό το αρχείο δεν είναι συμβατό με αυτήν την έκδοση του ThymioVPL. Μπορεί να μη λειτουργεί σωστά.</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="969"/>
         <source>Please add an event</source>
-        <translation type="unfinished"></translation>
+        <translation>Παρακαλώ προσθέστε ένα συμβάν</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/ThymioVisualProgramming.cpp" line="980"/>
         <source>Please add an action</source>
-        <translation type="unfinished"></translation>
+        <translation>Παρακαλώ προσθέστε μια ενέργεια</translation>
     </message>
 </context>
 <context>
@@ -1611,12 +1598,12 @@ Occurrences</source>
     <message>
         <location filename="plugins/ThymioVPL/UsageLogger.cpp" line="75"/>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>Είσοδος</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/UsageLogger.cpp" line="76"/>
         <source>Please enter your user or group name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Παρακαλώ εισάγετε το όνομα χρήστη ή ομάδας σας:</translation>
     </message>
 </context>
 <context>
@@ -1624,69 +1611,69 @@ Occurrences</source>
     <message>
         <location filename="ThymioVPLStandalone.cpp" line="172"/>
         <source>Connecting to Thymio...</source>
-        <translation type="unfinished"></translation>
+        <translation>Σύνδεση με το Thymio...</translation>
     </message>
     <message>
         <location filename="ThymioVPLStandalone.cpp" line="274"/>
         <location filename="ThymioVPLStandalone.cpp" line="496"/>
         <source>Thymio VPL Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα Thymio VPL</translation>
     </message>
     <message>
         <location filename="ThymioVPLStandalone.cpp" line="275"/>
         <source>You need to connect a Thymio II to use this application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρειάζεται να συνδέσετε ένα Thymio II για να χρησιμοποιήσετε αυτήν την εφαρμογή.</translation>
     </message>
     <message>
         <location filename="ThymioVPLStandalone.cpp" line="314"/>
         <source>Save Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση Σεναρίου (Script)</translation>
     </message>
     <message>
         <location filename="ThymioVPLStandalone.cpp" line="383"/>
         <source>Open Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα Σεναρίου (Script)</translation>
     </message>
     <message>
         <location filename="ThymioVPLStandalone.cpp" line="443"/>
         <location filename="ThymioVPLStandalone.cpp" line="451"/>
         <source>Loading</source>
-        <translation type="unfinished"></translation>
+        <translation>Φόρτωση</translation>
     </message>
     <message>
         <location filename="ThymioVPLStandalone.cpp" line="444"/>
         <source>No Thymio VPL data were found in the script file, file ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Δε βρέθηκαν Thymio VPL δεδομένα στο αρχείο σεναρίου (script), το αρχείο αγνοήθηκε.</translation>
     </message>
     <message>
         <location filename="ThymioVPLStandalone.cpp" line="452"/>
         <source>Error in XML source file: %0 at line %1, column %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα στο XML πηγαίο αρχείο: %0 στη γραμμή %1, στήλη %2</translation>
     </message>
     <message>
         <location filename="ThymioVPLStandalone.cpp" line="497"/>
         <source>This application only supports a single robot at a time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτή η εφαρμογή υποστηρίζει μόνο ένα ρομπότ τη φορά.</translation>
     </message>
     <message>
         <location filename="ThymioVPLStandalone.cpp" line="505"/>
         <source>Connection to Thymio lost... make sure Thymio is on and connect the USB cable/dongle</source>
-        <translation type="unfinished"></translation>
+        <translation>Η σύνδεση με το Thymio χάθηκε... βεβαιωθείτε ότι το Thymio είναι ενεργοποιημένο και συνδέστε το USB καλώδιο/ασύρματο πομποδέκτη (dongle)</translation>
     </message>
     <message>
         <location filename="ThymioVPLStandalone.cpp" line="569"/>
         <source>[modified] </source>
-        <translation type="unfinished"></translation>
+        <translation>[τροποποιημένο]</translation>
     </message>
     <message>
         <location filename="ThymioVPLStandalone.cpp" line="571"/>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>Χωρίς τίτλο</translation>
     </message>
     <message>
         <location filename="ThymioVPLStandalone.cpp" line="575"/>
         <source>%0 %1- Thymio Visual Programming Language - ver. %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%0 %1- Οπτική Γλώσσα Προγραμματισμού του Thymio - έκδοση %2</translation>
     </message>
 </context>
 <context>
@@ -1695,17 +1682,17 @@ Occurrences</source>
         <location filename="DashelTarget.cpp" line="434"/>
         <location filename="DashelTarget.cpp" line="441"/>
         <source>Protocol version mismatch</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν ταιριάζει η έκδοση πρωτοκόλλων</translation>
     </message>
     <message>
         <location filename="DashelTarget.cpp" line="435"/>
         <source>Aseba Studio uses an older protocol (%1) than node %0 (%2), please upgrade Aseba Studio.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το Aseba Studio χρησιμοποιεί παλαιότερο πρωτόκολλο (%1) από τον κόμβο %0 (%2), παρακαλώ να αναβαθμίσετε το Aseba Studio.</translation>
     </message>
     <message>
         <location filename="DashelTarget.cpp" line="442"/>
         <source>Node %0 uses an older protocol (%2) than Aseba Studio (%1), please upgrade the node firmware.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ο κόμβος %0 χρησιμοποιεί παλαιότερο πρωτόκολλο (%2) από το Aseba Studio (%1), παρακαλώ να αναβαθμίσετε το υλικολογισμικό (firmware) του κόμβου.</translation>
     </message>
 </context>
 <context>
@@ -1713,42 +1700,42 @@ Occurrences</source>
     <message>
         <location filename="DashelTarget.cpp" line="58"/>
         <source>Unexpected Dashel Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Απροσδόκητο Σφάλμα Dashel</translation>
     </message>
     <message>
         <location filename="DashelTarget.cpp" line="58"/>
         <source>A communication error happened:</source>
-        <translation type="unfinished"></translation>
+        <translation>Συνέβη σφάλμα επικοινωνίας:</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/Compiler.cpp" line="58"/>
         <source>Compilation success</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιτυχής μεταγλώττιση</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/Compiler.cpp" line="62"/>
         <source>Line %0: Missing event</source>
-        <translation type="unfinished"></translation>
+        <translation>Γραμμή %0: Λείπει συμβάν</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/Compiler.cpp" line="66"/>
         <source>Line %0: Missing action</source>
-        <translation type="unfinished"></translation>
+        <translation>Γραμμή %0: Λείπει ενέργεια</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/Compiler.cpp" line="71"/>
         <source>The event in line %0 is the same as in line %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Το συμβάν στη γραμμή %0 είναι το ίδιο με τη γραμμή %1</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/Compiler.cpp" line="73"/>
         <source>The event and the state condition in line %0 are the same as in line %1</source>
-        <translation type="unfinished"></translation>
+        <translation >Το συμβάν και η κατάσταση στη γραμμή %0 είναι τα ίδια με τη γραμμή %1</translation>
     </message>
     <message>
         <location filename="plugins/ThymioVPL/Compiler.cpp" line="76"/>
         <source>Unknown VPL error</source>
-        <translation type="unfinished"></translation>
+        <translation>Άγνωστο σφάλμα VPL</translation>
     </message>
 </context>
 </TS>
