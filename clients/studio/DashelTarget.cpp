@@ -55,7 +55,7 @@ namespace Aseba
 			// should not happen here, but can because of typos in Dashel, catch it for now
 			break;
 		default:
-			QMessageBox::critical(NULL, QObject::tr("Unexpected Dashel Error"), QObject::tr("A communication error happened:") + " (" + QString::number(e.source) + ") " + e.what());
+			QMessageBox::critical(nullptr, QObject::tr("Unexpected Dashel Error"), QObject::tr("A communication error happened:") + " (" + QString::number(e.source) + ") " + e.what());
 			break;
 		}
 	}
@@ -426,7 +426,7 @@ namespace Aseba
 		}
 	}
 	
-	void DashelInterface::nodeProtocolVersionMismatch(unsigned nodeId, const std::wstring &nodeName, uint16 protocolVersion)
+	void DashelInterface::nodeProtocolVersionMismatch(unsigned nodeId, const std::wstring &nodeName, uint16_t protocolVersion)
 	{
 		// show a different warning in function of the mismatch
 		if (protocolVersion > ASEBA_PROTOCOL_VERSION)
@@ -573,7 +573,7 @@ namespace Aseba
 			// send bytecode
 			try
 			{
-				sendBytecode(dashelInterface.stream, node, std::vector<uint16>(bytecode.begin(), bytecode.end()));
+				sendBytecode(dashelInterface.stream, node, std::vector<uint16_t>(bytecode.begin(), bytecode.end()));
 				dashelInterface.stream->flush();
 				dashelInterface.unlock();
 			}
@@ -659,7 +659,7 @@ namespace Aseba
 		}
 		else
 			dashelInterface.unlock();
-		qDebug() << "getVariables duration: " << timer.elapsed();
+		//qDebug() << "getVariables duration: " << timer.elapsed();
 		
 		QDateTime curTime(QDateTime::currentDateTime());
 		//qDebug() << "variable rate" << lastTime.msecsTo(curTime);

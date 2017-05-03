@@ -65,22 +65,10 @@ find_package(dashel REQUIRED)
 include_directories(${dashel_INCLUDE_DIRS})
 
 # Enki
-find_path(ENKI_INCLUDE_DIR enki/PhysicalEngine.h)
-find_library(ENKI_LIBRARY enki)
-find_library(ENKI_VIEWER_LIBRARY enkiviewer)
-if (ENKI_INCLUDE_DIR AND ENKI_LIBRARY AND ENKI_VIEWER_LIBRARY)
-	set(ENKI_FOUND 1)
-	message(STATUS "Enki found")
-else (ENKI_INCLUDE_DIR AND ENKI_LIBRARY AND ENKI_VIEWER_LIBRARY)
-	message(STATUS "Enki *not* found, simulation targets disabled")
-endif (ENKI_INCLUDE_DIR AND ENKI_LIBRARY AND ENKI_VIEWER_LIBRARY)
+find_package(enki)
 
 # Qt
-if (UNIX AND NOT APPLE)
-	find_package(Qt4 COMPONENTS QtCore QtGui QtNetwork QtXml QtHelp QtSvg QtWebKit QtDBus)
-else (UNIX AND NOT APPLE)
-	find_package(Qt4 COMPONENTS QtCore QtGui QtNetwork QtXml QtHelp QtSvg QtWebKit)
-endif (UNIX AND NOT APPLE)
+find_package(Qt4 COMPONENTS QtCore QtGui QtNetwork QtXml QtHelp QtSvg QtWebKit OPTIONAL_COMPONENTS QtDBus)
 
 # Qwt
 find_path(QWT_INCLUDE_DIR qwt_plot.h /usr/include/qwt5-qt4 /usr/include/qwt-qt4 /usr/local/include/qwt-qt4 /usr/include/qwt /usr/local/include/qwt)

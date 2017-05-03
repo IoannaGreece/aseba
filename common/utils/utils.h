@@ -27,6 +27,7 @@
 #include <cstdlib>
 #include <vector>
 #include <functional>
+#include <memory>
 #include "../types.h"
 
 namespace Aseba
@@ -35,9 +36,6 @@ namespace Aseba
 	\defgroup utils General helper functions and classes
 	*/
 	/*@{*/
-	
-	//! Macro to avoid the warning "unused variable", if we have a valid reason to keep this variable
-	#define UNUSED(expr) do { (void)(expr); } while (0)
 	
 	//! Asserts a dynamic cast. Similar to the one in boost/cast.hpp
 	template<typename Derived, typename Base>
@@ -54,11 +52,18 @@ namespace Aseba
 	static inline Derived polymorphic_downcast_or_null(Base base)
 	{
 		if (!base)
-			return 0;
+			return nullptr;
 		Derived derived = dynamic_cast<Derived>(base);
 		if (!derived)
 			abort();
 		return derived;
+	}
+	
+	//! Create a unique_ptr by perfect forwarding, to be removed once we switch to C++14
+	template<typename T, typename... Args>
+	std::unique_ptr<T> make_unique(Args&&... args)
+	{
+		return std::unique_ptr<T>(new T(std::forward<Args>(args)...));
 	}
 	
 	//! Time or durations, in milliseconds
@@ -146,10 +151,10 @@ namespace Aseba
 	std::wstring UTF8ToWString(const std::string& s);
 	
 	//! Update the XModem CRC (x^16 + x^12 + x^5 + 1 (0x1021)) with a wstring
-	uint16 crcXModem(const uint16 oldCrc, const std::wstring& s);
+	uint16_t crcXModem(const uint16_t oldCrc, const std::wstring& s);
 	
-	//! Update the XModem CRC (x^16 + x^12 + x^5 + 1 (0x1021)) with a uint16 value
-	uint16 crcXModem(const uint16 oldCrc, const uint16 v);
+	//! Update the XModem CRC (x^16 + x^12 + x^5 + 1 (0x1021)) with a uint16_t value
+	uint16_t crcXModem(const uint16_t oldCrc, const uint16_t v);
 	
 	//! Split a string using given delimiters
 	template<typename T>
